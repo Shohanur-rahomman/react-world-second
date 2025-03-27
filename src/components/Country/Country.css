@@ -11,3 +11,9 @@
     width: 180px;
     object-fit: cover;
 }
+
+.new{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}

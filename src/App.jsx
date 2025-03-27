@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       
-      <h1>React World Second</h1>
+      <h2>React World Second</h2>
       <Suspense fallback={<h2>loading</h2>}>
         <Countries countriesFetch={countriesFetch}></Countries>
       </Suspense>
